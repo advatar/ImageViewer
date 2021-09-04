@@ -11,7 +11,7 @@ let package = Package(
     targets: [
         .target(
             name: "ImageViewer",
-            path: "Sources"
+            path: "ImageViewer"
         )
     ]
 )
